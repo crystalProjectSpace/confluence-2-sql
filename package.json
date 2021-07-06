@@ -1,0 +1,14 @@
+{
+  "name": "confluence_parser",
+  "version": "0.0.0",
+  "description": "utility to nigrate from confluence xml to knoba-compatible sql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kuznetsovsi",
+  "license": "ISC",
+  "devDependencies": {
+    "linkedom": "^0.8.0"
+  }
+}
